@@ -27,7 +27,7 @@
  <!--<hr>-->
  
  ![Snake animation](https://github.com/coelhoalexandre/coelhoalexandre/blob/output/github-contribution-grid-snake.svg)
-<hr>
+<!--<hr>
 
-**Logo abaixo tem meus principais repositorios, talvez algum lhe interesse! 👇**
+**Logo abaixo tem meus principais repositorios, talvez algum lhe interesse! 👇**-->
 
