@@ -1,7 +1,7 @@
 ## Oii, eu sou Alexandre Coelho, estudante de Desenvolvimento Web!
 
 <div align="center">
- 
+  <a href="https://github.com/coelhoalexandre">
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api?username=coelhoalexandre&show_icons=true&theme=dracula&include_all_commits=false&count_private=true" alt="Alexandre Coelho GitHub Stats"/>
   <img height="160em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coelhoalexandre&layout=compact&langs_count=6&theme=dracula" alt="Most used languages by Alexandre Coelho"/>
    
