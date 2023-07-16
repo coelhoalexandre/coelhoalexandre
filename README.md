@@ -26,7 +26,7 @@
  
   <div align="center"> 
     
-![Snake animation](https://github.com/coelhoalexandre/coelhoalexandre/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/coelhoalexandre/coelhoalexandre/blob/output/github-contribution-grid-snake.svg)
     
-[![Alexandre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=coelhoalexandre&theme=dracula)](https://github.com/coelhoalexandre/github-readme-activity-graph)
+[![Alexandre's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=coelhoalexandre&theme=dracula)](https://github.com/coelhoalexandre/github-readme-activity-graph) -->
     
