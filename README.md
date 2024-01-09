@@ -1,4 +1,4 @@
-## Oii, eu sou Alexandre Coelho, estudante de Desenvolvimento Web!
+## Olá, eu sou Alexandre Coelho e estou estudando Desenvolvimento Web!
 
 <div align="center">
   <a href="https://github.com/coelhoalexandre">
@@ -20,7 +20,8 @@
     
  Eu estou me dedicando a aprender **Desenvolvimento Web** e me tornar **FullStack**. Estou disposto a ouvir sugestões e aprender mais sobre está área.
 
-   ### Estudando Atualmentes as Tecnologias: <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> 
+   ### Estudando Atualmentes as Tecnologias: <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+   <!--<img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> -->
   
 <hr>
  
