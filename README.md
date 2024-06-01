@@ -1,4 +1,4 @@
-## Olá, eu sou Alexandre Coelho e estou estudando Desenvolvimento Web!
+## Olá, eu sou Alexandre Coelho  sou Desenvolvendor Web em formação!
 
 <div align="center">
   <a href="https://github.com/coelhoalexandre">
@@ -13,13 +13,14 @@
  ## Sobre mim
 - 📍| **Itabuna, BA.** <!-- 💻| Estudante de Ciência da Computação. -->
 - 🤿| **Aluno da Alura.**
+- 📌| **Desenvolvedor Front-end.**
 - 📖| **Estudando Desenvolvimento Web.**
 - 🎯| **Objetivo de alcançar o FullStack.**
 - 📌| **Disposto a ouvir sugestões e aprender mais sobre esssa área.**
 
 <br>
 
-<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
 ##
 
