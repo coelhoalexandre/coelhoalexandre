@@ -11,7 +11,8 @@
 </div>
 
  ## Sobre mim
-- 📍| **Itabuna, BA.** <!-- 💻| Estudante de Ciência da Computação. -->
+- 📍| **Itabuna, BA.**
+- 💻| **Estudante de Ciência da Computação.**
 - 🤿| **Aluno da Alura.**
 - 📌| **Desenvolvedor Front-end.**
 - 📖| **Estudando Desenvolvimento Web.**
